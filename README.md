@@ -26,4 +26,4 @@ Most solutions are implemented in Python and TypeScript, as it provides a clean 
 - LeetCode
 - GeeksforGeeks
 - Cracking the Coding Interview
-- Introduction to Algorithms (CLRS) 
+- Introduction to Algorithms (CLRS)
